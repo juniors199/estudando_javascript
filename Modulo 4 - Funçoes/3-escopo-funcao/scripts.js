@@ -15,4 +15,4 @@ if(true){
     console.log(x); //escopo do if
 }
 
-console.log(x); //escopo global
+console.log(x); //escopo global 
