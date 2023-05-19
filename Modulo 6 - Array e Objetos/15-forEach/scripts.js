@@ -10,7 +10,8 @@ nums.forEach(num => {
 //o parametro num, o propio javascript entende como uma variavel dentro do array, n precisando declarar ela.
 
 let nomes = ["Matheus", "Marcio", "José", "Pedro", "Joao"];
-
+// A variavel teste o javaScript atribui ao array automaticamente. Boas praticas utilizar um nome relacional.
 nomes.forEach(teste =>{
     console.log(`O nome é ` + teste);
 })
+
