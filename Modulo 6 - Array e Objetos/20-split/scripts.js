@@ -17,11 +17,6 @@ let produtos = "Banana, Maça, Pera, Jaca, Bola, Tapete, Uva";
 
 let listaProdutos = produtos.split(",");
 
-for(i = 0 ; i <= listaProdutos.length; i++){
-    let novaListaProdutos = listaProdutos.trim();
-    console.log(novaListaProdutos);
-}
-
 // for (let item = 0; item < listaProdutos.length; item++) {
 //    let listaProdutosCerta = listaProdutos[item].trim();
 // }
